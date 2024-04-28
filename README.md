@@ -2,12 +2,22 @@
 I've built a machine learning model using a Kaggle dataset and the CatBoostClassifier after evaluating multiple models. This specific model stood out as my selection after careful consideration.  
 It's satisfying to have found a model that fits the dataset effectively.
 
+# Features 
+- Gender
+- Age
+- Occupation
+- Sleep_duration
+- Quality of sleep
+
 
 # Folder structure:  
 - images: This directory contains images used in your project.  
 - data: This directory holds the dataset you utilized to create the machine learning model.  
 - Models: Here, you've stored some models that were dumped from your source file, likely for future use in predictions in another application.  
 - Src: This directory contains your source files. One of these files is used to create the entire machine learning model, while the other is likely for the Streamlit application, possibly for deploying or showcasing your model.
+
+# Prediction:
+- It will predict the stress level on the basis of given features.
 
 
 # How to use:
