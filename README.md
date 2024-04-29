@@ -31,4 +31,7 @@ It's satisfying to have found a model that fits the dataset effectively.
 - Enhance the existing model by adding more preprocessing steps or trying different algorithms.  
 - Experiment with feature engineering techniques to improve model performance.  
 - Explore alternative algorithms to find the best fit for your dataset.  
-- Refine your model through thorough evaluation and validation processes.  
+- Refine your model through thorough evaluation and validation processes.
+
+# DISCLAIMER  
+-  Please be aware that stress levels can vary significantly from person to person and can be influenced by various factors. While this content may include discussions about stress-inducing topics, it's essential to recognize your individual stress tolerance and seek additional support or professional advice if needed. If you find that your stress level is high or low, please don't solely rely on predictions. Consulting with a qualified expert or seeking support from trusted sources is recommended. Your well-being is paramount, so please prioritize self-care and take necessary steps to manage your stress effectively.
