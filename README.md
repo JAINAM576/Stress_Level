@@ -21,7 +21,7 @@ It's satisfying to have found a model that fits the dataset effectively.
 
 
 # How to use:
-1) git clone 'https://github.com/JAINAM576/Stress_Level/new/main?filename=README.md'  
+1) git clone 'https://github.com/JAINAM576/Stress_Level'  
 2) cd Src  
 3)  streamlit run .\Stress_predict.py  
 4)  Fill the inputs.  
